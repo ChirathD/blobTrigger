@@ -1,0 +1,2 @@
+# blobTrigger
+Azure blob trigger
